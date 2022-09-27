@@ -1,1 +1,3 @@
-git practice
+git is easy
+git is lightweight
+easy to understand.
